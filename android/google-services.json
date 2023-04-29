@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848254643532",
+    "project_id": "crontabswich",
+    "storage_bucket": "crontabswich.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848254643532:android:19439f7bb0230f304033e9",
+        "android_client_info": {
+          "package_name": "crontab.swich.beta_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848254643532-7qd8l146av6i1dcen086hisar83md0bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpyijX_K1KaZTW2hbYo729vr-33O4i-9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848254643532-7qd8l146av6i1dcen086hisar83md0bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
